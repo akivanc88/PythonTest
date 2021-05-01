@@ -1,0 +1,6 @@
+rsa 4.7
+scikit-learn
+tox
+black
+isort
+-e .
